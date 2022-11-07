@@ -174,20 +174,138 @@ It is **==especially==**（尤其，特别的） widespread among women, childre
 
 在另外一些城市的政府他们不重视对重要农业的知识和不懂得帮助农民
 
-In places with a lack of or dirty drinking water diseases, like diarrhea, lead to indigestion of food.
-Digestive disorders may also be causes of malnutrition. People eat properly but their body cannot digest the food. In the Third World many mothers do not breastfeed their children, thus weakening the immune system.
- 
-Signs of malnutrition
-•	tiredness and not enough energy
-•	decaying teeth
-•	poor growth
-•	weight loss
-•	fragile bones that break easily
-•	weakening of muscles
-•	diarrhea
-•	dizziness
-Depression Obesity
-In developed countries obesity is the most widespread form of malnutrition. Obese people consume more calories than they need. This may lead to diabetes and contribute to heart problems and high blood pressure. Too many fats in your diet can lead to high  cholesterol levels.
+- In places with a lack of or dirty drinking water diseases, like **==diarrhea==**（腹泻，痢疾）, lead to **==indigestion==**（消化不良） of food.
 
-Solutions and Treatment
-One way to help avoid malnutrition is to enrich food with vitamins. For example, milk is enriched with Vitamin D. In Third World countries schools must try to teach children the right eating habits and emphasize eating vegetables and fruit. Governments and other institutions must do their part in educating the population to eat the right things. The World Health Organization and other groups try to help the poorest of these countries with financial aid and other support.
+在这些地方水资源短缺或者水质差，腹泻等导致了食物消化不良
+
+**diarrhea--腹泻，痢疾**
+
+**indigestion--消化不良**
+
+**digestion--消化 $v.$** 
+
+**digest--理解，消化 $n.$** 
+
+Digestive **==disorders==**（紊乱，混乱） may also be causes of malnutrition.
+
+消化紊乱可能导致营养不良的主要原因
+
+-  People eat **==properly==**（正确地，适当地） but their body cannot digest the food. 
+
+人们可能饮食正确，但是他们身体吸收不了
+
+**properly--正确地，适当地，实际上，严格来说 $adv.$**  
+
+**proper--适当的，本身的，特意的 $adj.$** 
+
+**properly--currectly--正确地**
+
+- In the Third World many mothers do not **==breastfeed==**（以母乳喂养） their children, **==thus==** （因此，导致，这样）weakening the immune system.
+
+在第三世界国家很多母亲没有以母乳喂养他们的婴儿，因此减弱其免疫系统
+
+ **breastfeed--以母乳喂养 $v.$**
+
+​	**breast---乳房，胸部 $n.$**
+
+​	**thus---因此，这样，导致 $adv.$     thusly--因而**
+
+​	**thus--therefore--consequently--因此，结果，这样，所以**
+
+#### ==Signs of malnutrition==
+
+营养不良的信号
+
+•	tiredness and not enough energy
+
+太累和没有足够的能量
+
+•	**==decaying==**（衰落，脱落） teeth
+
+牙齿脱落
+
+•	poor growth
+
+发育缓慢
+
+•	weight loss
+
+体重太轻
+
+•	**==fragile==**（易碎的） bones that **==break easily==**（更容易受伤）
+
+易碎的骨头
+
+•	weakening of **==muscles==**（肌肉）
+
+肌肉少
+
+•	diarrhea
+
+腹泻，痢疾
+
+•	**==dizziness==**
+
+头晕
+
+#### ==Depression== （抑郁）==Obesity==
+
+抑郁症的肥胖
+
+depression--抑郁，沮丧，不景气
+
+- In developed countries obesity is the most **==widespread==**（传播） **==form==**（形式） of malnutrition.
+
+在发达国家肥胖症是营养不良最普遍的形式
+
+-  **==Obese==**（肥胖） people **==consume==** （摄入，消费）more **==calories==**（卡路里） than they need. 
+
+肥胖的人会摄入更多的能量相比他们自己所需
+
+**consume--消费，摄入 $v.$** 
+
+**consumer--消费者**
+
+**consuming--消费的，强烈的**
+
+**consumable--可消耗的**
+
+- This may lead to **==diabetes==**（糖尿病） and **==contribute==**（导致，促进，是....的原因之一） to heart problems and high blood pressure. 
+
+这个可能导致糖尿病和心脏病发生和高血压
+
+- Too many fats in your diet can lead to high  **==cholesterol==**（胆固醇） levels.
+
+饮食中过多的脂肪会导致胆固醇水平高
+
+#### ==Solutions and Treatment==（治疗）
+
+解决方法和治疗
+
+- One way to help avoid malnutrition is to **==enrich==**（使丰富） food with vitamins. 
+
+有一个方法可以帮助成年人营养不良去吃富含维生素的食物
+
+- For example, milk **==is enriched with==** Vitamin D. 
+
+比如，牛奶富含维生素D
+
+- In Third World countries schools must try to teach children the right eating habits and **==emphasize==** （强调）eating vegetables and fruit. 
+
+在第三世界的国家必须去尝试教会小孩子正确的饮食和强调吃蔬菜和水果
+
+**emphasize--强调，着重，重读（单词或者短语） $v.$** 
+
+**emphasize--stress（精神压力，紧张；压力，强调，重要性）--highlight（强调，突出，用颜色突出）**
+
+- Governments and other institutions must do their **==part==**（责任，义务） in educating the **==population==**（人民） to eat the right things.
+
+政府和其他机构必须要尽自己的责任教育人民吃正确的食物
+
+- The World Health Organization and other groups try to help the poorest of these countries with **==financial aid==**（经济支持） and other support.
+
+世界卫生组织和其他组织尝试帮助最贫穷的城市给予他们经济支持和其他帮助
+
+**financial--财政的，金融的   $adj.$** 
+
+**aid--援助，帮助 $n.$  帮主，促进 $v.$** 
